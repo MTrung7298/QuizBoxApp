@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuizBoxApp.iml" filepath="$PROJECT_DIR$/.idea/modules/QuizBoxApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QuizBoxApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QuizBoxApp.app.iml" />
+    </modules>
+  </component>
+</project>
